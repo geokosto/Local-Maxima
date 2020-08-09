@@ -1,4 +1,6 @@
-# Find Local Maxima
+# Find Peaks of X-ray Powder Diffraction Analysis data
+
+![](Figures/Figure_3.png)
 
 An simple algorithm to detect local maxima. 
 Tuning parameters are:
